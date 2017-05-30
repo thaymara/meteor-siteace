@@ -1,4 +1,4 @@
-# Build a social website aggregator
+# Site Ace - Social website aggregator
 
 Make a social website aggregator using Meteor. A social website aggregator allows users to share, discuss and rank interesting webpages they have found. Please download this ZIP file before you begin your assignment.
 
@@ -24,3 +24,7 @@ Automatic information Can you use the HTTP package for Meteor to pull in informa
 # Challenge 2: 
 Search function Implement a search function that allows the user to search within the listed sites for key words (not implemented)
 
+# Installation
+1. Make sure you already have Meteor intalled
+2. Into project folder run: `meteor`
+3. Open your web browser and go to http://localhost:3000 to see the app running.
